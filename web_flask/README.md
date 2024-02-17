@@ -37,7 +37,7 @@ Write a script that starts a Flask web application:
     - The default value of text is “is cool”
 - You must use the option `strict_slashes=False` in your route definition
 
-## Write a script that starts a Flask web application:
+## 4. Write a script that starts a Flask web application:
 
 Your web application must be listening on `0.0.0.0`, port `5000`
 - Routes:
@@ -49,7 +49,7 @@ Your web application must be listening on `0.0.0.0`, port `5000`
 - `/number/<n>`: display “n is a number” only if n is an integer
 - You must use the option `strict_slashes=False` in your route definition
 
-## Number template
+## 5. Number template
 Write a script that starts a Flask web application:
 
 - Your web application must be listening on `0.0.0.0`, port `5000`
