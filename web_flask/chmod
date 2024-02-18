@@ -1,0 +1,3 @@
+## run chmod command to make files executable
+
+chmod u+x * ; chmod u-x README.md
